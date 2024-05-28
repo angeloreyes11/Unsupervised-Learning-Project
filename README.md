@@ -1,4 +1,4 @@
-# Unsupervised-Learning-Project
+# Unsupervised Customer Segmentation and Insights Analysis Using Clustering Techniques
 
 ## Project/Goals
 The main objectives of this project are as follows:
